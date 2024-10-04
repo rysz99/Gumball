@@ -1,0 +1,322 @@
+body
+{
+    background-color: #565665;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+
+#container
+{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#body-header
+{
+    background-color: #333333;
+}
+
+p
+{
+    line-height: 200%;
+    color: black;
+    text-align: justify;
+}
+
+#intro
+{
+    color: a18b00;
+    letter-spacing: 3px;
+    font-weight: 700;
+    line-height: 180%;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+h1
+{
+    margin-top: 65px;
+    margin-bottom: 35px;
+    background-color: #44006a;
+    padding: 20px;
+    letter-spacing: 7px;
+    color: black;
+    text-transform: capitalize;
+}
+
+h2
+{
+    color: black;
+}
+
+h3,h4
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h4 > a,h5 > a
+{
+    color: #fff;
+}
+
+.family
+{
+    padding: 20px;
+}
+
+.red
+{
+    background-color: darkred;
+}
+
+.green
+{
+    background-color: darkgreen;
+}
+
+.blue
+{
+    background-color: #411799;
+}
+
+.yellow
+{
+    background-color: #a59c00;
+}
+
+.purple
+{
+    background-color: purple;
+}
+
+.orangered
+{
+    background-color: orangered;
+}
+
+.brown
+{
+    background-color: brown;
+}
+
+.indianred
+{
+    background-color: indianred;
+}
+
+#left a
+{
+    color: #fff;
+}
+
+#left ul > li > ul >li > a:hover,
+#right ul > li > a:hover
+{
+    background-color: black;
+    padding: 12px;
+}
+
+#right a
+{
+    color: #fff;
+}
+
+p > a
+{
+    background-color: silver;
+    padding: 2px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+    list-style-type: none;
+    line-height: 150%;
+}
+
+#left
+{
+    float: left;
+    padding: 0 20px 0 20px;
+    margin: 40px 10px;
+    width: 440px;
+}
+
+#right
+{
+    float: left;
+    padding: 0 20px 0 20px;
+    margin: 40px 10px;
+    width: 440px;
+}
+
+#right ul
+{
+    background-color: #666666;
+}
+
+li
+{
+    padding: 8px;
+}
+
+.logo
+{
+    background-color: black;
+    color: orangered;
+    padding: 20px 0;
+    margin: 0;
+}
+
+.left
+{
+    text-align: left;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+
+.right
+{
+    text-align: right;
+    margin-left: 20px;
+    padding-right: 20px;
+}
+
+h4,h5
+{
+    margin-top: 80px;
+}
+
+h5
+{
+    background-color: #000;
+    padding: 12px 0;
+    letter-spacing: 5px;
+}
+
+footer
+{
+    margin-top: 75px;
+}
+
+img
+{
+    width: 180px;
+}
+
+.conture:hover
+{
+    opacity: 100%;
+    cursor: pointer;
+}
+
+.conture
+{
+    color: black;
+    font-weight: 900;
+    width: 220px;
+    opacity: 70%;
+    float: left;
+    text-align: center;
+    background-color: black;
+    padding-right: 40px;
+}
+
+.description,.description2
+{
+    float: left;
+    width: 734px;
+    background-image: linear-gradient(to left, gray 25%, magenta 50%, green 75%, yellow);
+    padding: 0 8px;
+}
+
+.description2
+{
+    background-image: linear-gradient(to right, violet 25%, red 50%, brown 75%, orangered);
+}
+
+.conture figcaption
+{
+    background-color: white;
+    width: 180px;
+    margin-top: 2px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-weight: 900;
+    text-align: center;
+}
+
+article:not(last-child)
+{
+    margin-bottom: 3px;
+}
+
+.same
+{
+    height: 253px;
+}
+
+.same1
+{
+    height: 253.2px;
+}
+
+.same2
+{
+    height: 173px;
+}
+
+.same3
+{
+    height: 213px;
+}
+
+.same4
+{
+    height: 293px;
+}
+
+.same5
+{
+    height: 293.3px;
+}
+
+.same6
+{
+    height: 213.5px;
+}
+
+#watterson4
+{
+    height: 373.3px;
+}
+
+#keane1
+{
+    height: 253.5px;
+}
+
+#fitzgerald1
+{
+    height: 215px;
+}
+
+#porky
+{
+    height: 333px;
+}
+
+#needlemeyer
+{
+    height: 413.3px;
+}
